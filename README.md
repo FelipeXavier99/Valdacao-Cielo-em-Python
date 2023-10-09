@@ -1,5 +1,5 @@
 # Cielo-Pyhton
-Utilização da API da Cielo com Python
+Utilização da API da Cielo com Python para validar cartao de crédito na base teste!
 
 ## Credencias site teste Cielo(sandbox)
 
@@ -16,7 +16,13 @@ RPDPHNTGBHIXCUGTBAUQKNOMCLOVOYIODAVFWQZT
 - pip install flask 
 - pip install cieloApi3
 - pip install  --upgrade -r requirements.txt
-- 
-OBS: caso de erro só atualiazar  pip =  pip install --upgrade pip e tem q usar versao 3.10 python
+ 
+-OBS: caso de erro só atualiazar  pip =  pip install --upgrade pip e tem q usar versao 3.10 python
+
+
+
+
+https://github.com/FelipeXavier99/Valdacao-Cielo-em-Python/assets/127893679/e08ba5fa-352c-44a1-9b04-f8aee4578d1f
+
 
 
