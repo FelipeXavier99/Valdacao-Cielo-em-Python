@@ -19,6 +19,7 @@ RPDPHNTGBHIXCUGTBAUQKNOMCLOVOYIODAVFWQZT
  
 -OBS: caso de erro só atualiazar  pip =  pip install --upgrade pip e tem q usar versao 3.10 python
 
+-Executar:  python teste.py
 
 
 
